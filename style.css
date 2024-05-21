@@ -1,0 +1,27 @@
+.main{
+    height: 400px;
+    width: 400px;
+}
+.main-circle{
+    background: url(images/main-circle.png)no-repeat center;
+    display: flex;
+    height: 100%;
+    width: 100%;
+}
+.sec-points{
+    background: url(images/minute-points.png)no-repeat center;
+    display: flex;
+    height: 100%;
+    width: 100%;
+}
+.points{
+    background: url(images/points.png)no-repeat center;
+    display: flex;
+    height: 100%;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+}
+.nodes{
+    
+}
